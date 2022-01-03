@@ -1,6 +1,6 @@
 ### Oie! Eu sou o Arley Alles Cruz ✋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/ArleyAlles)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arley-alles/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arleyalles/)
 
 ![Arley GitHub stats](https://github-readme-stats.vercel.app/api?username=ArleyAlles&show_icons=true&theme=onedark)
