@@ -11,7 +11,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white" />  
 </div><br/>
 
-Post-doctorate researcher in chemical engineering motivated by challenges 🤓
+Postdoctoral researcher in chemical engineering motivated by challenges 🤓
 
 Areas of interest:
 
