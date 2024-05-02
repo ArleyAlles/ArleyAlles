@@ -14,6 +14,6 @@ Postdoctoral researcher in chemical engineering motivated by challenges 🤓
 
 Areas of interest:
 
-* Data science;
+* Thermodynamics;
 * Machine learning;
 * Numerical analysis;
