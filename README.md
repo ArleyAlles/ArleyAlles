@@ -1,9 +1,10 @@
- ### Hi there! I'm Arley Alles Cruz ✋
+ ### Hi there! 
+ ### I'm Arley Alles Cruz ✋
 
 ![ArleyAlles GitHub stats](https://github-readme-stats.vercel.app/api?username=ArleyAlles&show_icons=true&theme=onedark)
 
-#### I am a **Petroleum Engineer and Scientific Developer** specializing in **phase equilibrium thermodynamics, numerical methods, and computational simulations**.
-I develop Python-based solutions that transform theoretical concepts in **chemical and process engineering** into practical results that can be applied in real-world projects and shared with the community.
+#### I am a **Petroleum Engineer and Scientific Developer** specializing in **phase equilibrium thermodynamics, numerical methods, and computational simulations**. 
+#### I develop Python-based solutions that transform theoretical concepts in **chemical and process engineering** into practical results that can be applied in real-world projects and shared with the community.
 ---
 
 #### Areas of expertise:
